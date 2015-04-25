@@ -7,7 +7,6 @@
             "email": "samarulraj@gmail.com"
         }
     ],
-    "preferred-install": "stable",
     "minimum-stability": "dev",
     "require": {
         
