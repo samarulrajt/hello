@@ -7,9 +7,7 @@
             "email": "samarulraj@gmail.com"
         }
     ],
-    
-	"preferred-install": "dev",
-    
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.0"
 
